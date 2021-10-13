@@ -16,7 +16,7 @@
 - Bypass the 750Gb a day limit thanks to Service accounts
 - Duplicate team drive
 - Copy public folders & files to team drives
-- [Host it to heroku](https://github.com/MsGsuite/CloneBot_Heroku)
+- [Host it to heroku](https://github.com/sridhar885/myclonebot)
 
 #### ❌ Drawbacks
 - Does not support files upload (only copy)
@@ -31,7 +31,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 ## 💠 Host the bot on your computer
 
---> https://github.com/MsGsuite/CloneBot
+--> https://github.com/sridhar885/myclonebot
 <br/><br/>
 
 ## 📱 Run the bot on your phone using termux
@@ -44,7 +44,7 @@ Note : there are hidden features, check at the source code of the bot to find th
  [🎬 Click me for the video tutorial](https://drive.google.com/file/d/1HniSEGUOptbZmHVXuOPULnzpyBBhgw3l/view?usp=sharing)
  
 1. Click on the button below :
-<p><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/msgsuite/clonebot_heroku"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/sridhar885/myclonebot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" alt="Deploy to Heroku" /></a></p>
 
 
 2. Fill the following values : 
